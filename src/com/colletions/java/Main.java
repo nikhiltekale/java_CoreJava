@@ -18,6 +18,10 @@ public class Main {
         linkedList_impl ll_impl = new linkedList_impl();
         ll_impl.llimplimentation();
 
+        System.out.println("HashSet implementation ::");
+        HashSet_impl hs_impl= new HashSet_impl();
+        hs_impl.hashSet_implemenation();
+
 
 
     }
