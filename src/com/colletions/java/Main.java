@@ -22,6 +22,10 @@ public class Main {
         HashSet_impl hs_impl= new HashSet_impl();
         hs_impl.hashSet_implemenation();
 
+        System.out.println("HashMap implementation ::");
+        HashMap_impl hm_impl= new HashMap_impl();
+        hm_impl.HashMap_implementation();
+
 
 
     }
