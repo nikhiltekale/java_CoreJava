@@ -13,6 +13,7 @@ public class HashSet_impl {
         set.add("Four");
         set.add("Five");
         set.add("Three");
+        set.remove("Three");
         Iterator<String> i=set.iterator();
         while(i.hasNext())
         {
